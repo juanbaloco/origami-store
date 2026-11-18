@@ -5,6 +5,8 @@ Tienda en línea para un emprendimiento de origami 3D: catálogo de productos, c
 > Proyecto académico — Estructuras de Datos y Algoritmos 2, Universidad Autónoma de Occidente (2025).
 > Este repositorio es un **esquema expositivo**: muestra el problema, la arquitectura, el modelo de datos y las decisiones técnicas. El código fuente completo se mantiene privado.
 
+🔗 **Demo:** [baloco-origami-store.web.app](https://baloco-origami-store.web.app) *(el backend de la demo está en corrección)*
+
 <p align="center"><img src="assets/catalogo-productos.png" width="80%" alt="Catálogo de productos"></p>
 
 ## El problema
