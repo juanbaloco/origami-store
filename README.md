@@ -1,8 +1,8 @@
 # Origami Store — Tienda web de origami artesanal
 
-Tienda en línea para un emprendimiento de origami 3D: catálogo de productos, carrito, pedidos estándar y personalizados, programa de fidelización y un panel de administración. Es una SPA en React que consume una API REST en FastAPI con autenticación JWT y roles.
+Tienda en línea de **mi propio emprendimiento** de origami 3D: catálogo de productos, carrito, pedidos estándar y personalizados, programa de fidelización y un panel de administración. Es una SPA en React que consume una API REST en FastAPI con autenticación JWT y roles.
 
-> Proyecto académico — Estructuras de Datos y Algoritmos 2, Universidad Autónoma de Occidente (2025).
+> Comenzó como proyecto de Estructuras de Datos y Algoritmos 2 en la Universidad Autónoma de Occidente (2025) y hoy es la tienda de mi emprendimiento.
 > Este repositorio es un **esquema expositivo**: muestra el problema, la arquitectura, el modelo de datos y las decisiones técnicas. El código fuente completo se mantiene privado.
 
 🔗 **Demo:** [baloco-origami-store.web.app](https://baloco-origami-store.web.app) *(el backend de la demo está en corrección)*
@@ -11,7 +11,7 @@ Tienda en línea para un emprendimiento de origami 3D: catálogo de productos, c
 
 ## El problema
 
-Personas y negocios quieren figuras de origami 3D, pero no encuentran un catálogo claro ni una forma sencilla de pedir o personalizar. La tienda resuelve eso para tres públicos: clientes finales (regalos y decoración), comercios (volumen y branding) y el taller (gestión interna).
+Mis clientes, personas y negocios, quieren figuras de origami 3D, pero no encontraban un catálogo claro ni una forma sencilla de pedir o personalizar. La tienda resuelve eso para tres públicos: clientes finales (regalos y decoración), comercios (volumen y branding) y mi taller (gestión interna).
 
 ## Funcionalidades
 
